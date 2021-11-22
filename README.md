@@ -1,2 +1,6 @@
 # Hackathon2021
-Project for Hackathon 2021
+The link for the project in mit app inventor is
+
+The link for the google slides is
+
+The link for the recording is
